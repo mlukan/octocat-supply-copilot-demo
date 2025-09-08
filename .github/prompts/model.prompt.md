@@ -1,6 +1,6 @@
 # Choosing the right model
 
-Always fetch the [GitHub docs](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/ai-models/choosing-the-right-ai-model-for-your-task] reference to help me select the correct models for the tasks I want to perform.
+Always fetch the [GitHub docs](https://docs.github.com/en/enterprise-cloud@latest/copilot/using-github-copilot/ai-models/choosing-the-right-ai-model-for-your-task] web page reference to help me select the correct models for the tasks I want to perform.
 
 - This is for GitHub Copilot only - do not suggest using models directly
 - Architecture as defined by the [architecture doc](../../docs/architecture.md)
