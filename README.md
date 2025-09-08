@@ -78,11 +78,9 @@ Or use the VS Code tasks:
 
 To showcase extended capabilities:
 
-1. Install Docker/Podman for the GitHub MCP server
-2. Use VS Code command palette:
+1. Use VS Code command palette:
    - `MCP: List servers` -> `playwright` -> `Start server`
-   - `MCP: List servers` -> `github` -> `Start server`
-3. Configure with a GitHub PAT (required for GitHub MCP server)
+2. Install the GitHub Remote MCP Server from [the VSCode MCP marketplace](https://code.visualstudio.com/mcp). Use OAuth for authentication.
 
 ## 📚 Documentation
 
